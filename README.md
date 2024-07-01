@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20DSA&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20DSA&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
-<h1 align="center">  Hi, I'm HelloWorld186-lang</h1>
+<h1 align="center"> Hi, I'm HelloWorld186-lang</h1>
 
 <h3 align="center">
   <em style="font-size: 24px;">"Visualize the outcome before writing the code."</em>
@@ -78,5 +78,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18&height=150&section=footer" width="100%" />
 </div>
