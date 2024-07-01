@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="(https://github.com/HelloWorld186-lang)"><img src="https://img.shields.io/github/followers/ayushchaurasia?label=Followers&style=social" alt="GitHub Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=ayushchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <a href="https://github.com/HelloWorld186-lang"><img src="https://img.shields.io/github/followers/HelloWorld186-lang?label=Followers&style=social" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=HelloWorld186-lang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 <div align="center">
@@ -28,33 +28,36 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
+  <img src="https://img.shields.io/badge/-Responsive_Design-FF6C37?style=for-the-badge&logo=responsive-design&logoColor=white" alt="Responsive Design">
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushchaurasia&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchaurasia&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=HelloWorld186-lang&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloWorld186-lang&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Streak" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchaurasia&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWorld186-lang&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" alt="Top Languages">
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushchaurasia&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=HelloWorld186-lang&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/ayushchaurasia/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushchaurasia&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 1">
+  <a href="https://github.com/HelloWorld186-lang/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloWorld186-lang&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 1">
   </a>
-  <a href="https://github.com/ayushchaurasia/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushchaurasia&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 2">
+  <a href="https://github.com/HelloWorld186-lang/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloWorld186-lang&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 2">
   </a>
 </div>
 
@@ -69,17 +72,17 @@
       <li>Efficient algorithms for problem-solving</li>
       <li>Responsive design for all devices</li>
     </ul>
-    <strong>Link:</strong> <a href="https://github.com/ayushchaurasia/amazing-app">GitHub Repository</a>
+    <strong>Link:</strong> <a href="https://github.com/HelloWorld186-lang/amazing-app">GitHub Repository</a>
   </p>
 </details>
 
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayushchaurasia"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/ayushchaurasia"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:ayush.chaurasia@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://ayushchaurasia.github.io"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/HelloWorld186-lang"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/HelloWorld186-lang"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:HelloWorld186-lang@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://HelloWorld186-lang.github.io"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <div align="center">
