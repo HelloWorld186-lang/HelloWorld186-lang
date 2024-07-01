@@ -1,21 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=51&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20DSA&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-<h1 align="center"><script src="https://cdn.lordicon.com/lordicon.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/zfmcashd.json"
-    trigger="in"
-    delay="1500"
-    state="in-reveal"
-    style="width:250px;height:250px">
-</lord-icon> Hi, I'm HelloWorld186-lang</h1>
+<h1 align="center">  Hi, I'm HelloWorld186-lang</h1>
 
-
-
-<h2 align="center">
+<h3 align="center">
   <em style="font-size: 24px;">"Visualize the outcome before writing the code."</em>
-</h2>
+</h3>
 <p align="center">
   <em style="font-size: 18px;">- By:- Hello World</em>
 </p>
@@ -50,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HelloWorld186-lang&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloWorld186-lang&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" height="165">
+<img src="https://streak-stats.demolab.com?user=HelloWorld186-lang"/>
 </p>
 
 <p align="center">
