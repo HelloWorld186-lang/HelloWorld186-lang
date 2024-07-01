@@ -4,11 +4,13 @@
 
 <h1 align="center">👋 Hi, I'm HelloWorld186-lang</h1>
 
+
+
 <h2 align="center">
   <em style="font-size: 24px;">"Visualize the outcome before writing the code."</em>
 </h2>
 <p align="center">
-  <em style="font-size: 18px;">- by HelloWorld</em>
+  <em style="font-size: 18px;">- By:- Hello World</em>
 </p>
 
 <p align="center">
