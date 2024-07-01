@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DSA%20and%20Full%20Stack%20Web%20Development%20Enthusiast&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DSA%20and%20Full%20Stack%20Web%20Development&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://your-profile-picture-url.com" alt="Ayush Chaurasia" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://your-profile-picture-url.com" alt="Hello World" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ayushchaurasia"><img src="https://img.shields.io/github/followers/ayushchaurasia?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="(https://github.com/HelloWorld186-lang)"><img src="https://img.shields.io/github/followers/ayushchaurasia?label=Followers&style=social" alt="GitHub Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=ayushchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
