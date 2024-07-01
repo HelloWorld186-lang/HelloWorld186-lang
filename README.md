@@ -4,10 +4,16 @@
 [![GitHub followers](https://img.shields.io/github/followers/HelloWorld186-lang?label=Follow&style=social)](https://github.com/HelloWorld186-lang/?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HelloWorld186?style=social)](https://twitter.com/HelloWorld186)
 
-![Hello World Banner](https://your-image-link-here)
+<div align="center">
+  <img src="https://your-image-link-here" alt="Hello World Banner" width="800" height="200"/>
+</div>
 
 <h2 align="center">👋 Hi there, I'm Hello World</h2>
 <p align="center">I'm a passionate <strong>Full Stack Developer</strong> and <strong>DSA Enthusiast</strong> with expertise in a wide range of technologies.</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+</div>
 
 ---
 
@@ -32,9 +38,15 @@
 ## 🛠️ Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloWorld186-lang&repo=Project1&theme=radical" alt="Project 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloWorld186-lang&repo=Project2&theme=radical" alt="Project 2"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloWorld186-lang&repo=Project3&theme=radical" alt="Project 3"/>
+  <a href="https://github.com/HelloWorld186-lang/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloWorld186-lang&repo=Project1&theme=radical" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/HelloWorld186-lang/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloWorld186-lang&repo=Project2&theme=radical" alt="Project 2"/>
+  </a>
+  <a href="https://github.com/HelloWorld186-lang/Project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HelloWorld186-lang&repo=Project3&theme=radical" alt="Project 3"/>
+  </a>
 </div>
 
 ---
@@ -63,7 +75,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 </p>
-<p align="center">I love coding challenges and enjoy contributing to open-source projects!</p>
+<p align="center">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</p>
 
 ---
 
