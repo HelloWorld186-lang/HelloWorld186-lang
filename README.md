@@ -4,12 +4,12 @@
 
 <h1 align="center">👋 Hi, I'm HelloWorld186-lang</h1>
 
-<p align="center">
-  <em style="font-size: 24px;">"Visualize the outcome before writing the code."</em>
-</p>
 <h2 align="center">
-  <em style="font-size: 18px;">- by HelloWorld</em>
+  <em style="font-size: 24px;">"Visualize the outcome before writing the code."</em>
 </h2>
+<p align="center">
+  <em style="font-size: 18px;">- by HelloWorld</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/HelloWorld186-lang"><img src="https://img.shields.io/github/followers/HelloWorld186-lang?label=Followers&style=social" alt="GitHub Followers"></a>
