@@ -7,9 +7,9 @@
 <p align="center">
   <em style="font-size: 24px;">"Visualize the outcome before writing the code."</em>
 </p>
-<p align="center">
+<h2 align="center">
   <em style="font-size: 18px;">- by HelloWorld</em>
-</p>
+</h2>
 
 <p align="center">
   <a href="https://github.com/HelloWorld186-lang"><img src="https://img.shields.io/github/followers/HelloWorld186-lang?label=Followers&style=social" alt="GitHub Followers"></a>
